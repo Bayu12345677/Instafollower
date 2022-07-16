@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+
+make setup
+cmake -DCMAKE_BUILD_TYPE=Debug
+make
+echo
+{
+	cat << EOF
+Script sudah di bangun
+silakan ketik perintah ./Instafollower-v2
+untuk menjalankan script
+EOF
+} | bat
