@@ -44,6 +44,7 @@ lalu menginstall repository ini
 pkg update
 pkg upgrade
 pkg install make
+pkg install cmake
 pkg install git
 pkg install openssl-tool
 git clone https://github.com/Bayu12345677/Instafollower.git
