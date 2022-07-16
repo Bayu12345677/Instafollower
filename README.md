@@ -1,7 +1,7 @@
 <h2 align="center">Instafollowers V2</h2>
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=followers&message=%20&logo=instagram&style=for-the-badge">
-<img src="https://img.shields.io/static/v1?label=by+pejuang+kentang&message=%20&logo=nano&style=for-the-badge&color=green">
+<img src="https://img.shields.io/static/v1?label=followers&message=%20&logo=instagram&style=for-the-badge"><br>
+<img src="https://img.shields.io/static/v1?label=by+pejuang+kentang&message=%20&logo=nano&style=plastic&color=green">
 <img src="https://img.shields.io/static/v1?label=version&message=0.1v&logo=apache&style=plastic&color=green">
 </p>
 
