@@ -43,6 +43,7 @@ lalu menginstall repository ini
 ```bash
 pkg update
 pkg upgrade
+pkg install make
 pkg install git
 pkg install openssl-tool
 git clone https://github.com/Bayu12345677/Instafollower.git
