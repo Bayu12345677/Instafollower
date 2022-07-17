@@ -4,6 +4,7 @@ Install_require = [
     "rich",
     "rich-cli",
     "xonsh",
+    "click",
     "wheel",
     "asciimatics",
     "requests"
