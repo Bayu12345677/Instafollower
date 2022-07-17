@@ -48,6 +48,7 @@ pkg install cmake
 pkg install bat
 pkg install ncurses-utils
 pkg install git
+apt-get install figlet toilet
 pkg install openssl-tool
 git clone https://github.com/Bayu12345677/Instafollower.git
 cd Instafollower
