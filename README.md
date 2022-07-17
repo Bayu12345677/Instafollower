@@ -52,6 +52,7 @@ apt-get install figlet toilet
 pkg install openssl-tool
 git clone https://github.com/Bayu12345677/Instafollower.git
 cd Instafollower
+pip install -r pip.txt
 bash gradle.build
 ```
 <br>
